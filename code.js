@@ -2,5 +2,5 @@
 const boton = document.querySelector(".boton");
 
 boton.addEventListener("click",(e)=>{
-    open("https://download942.mediafire.com/3e9t9d67t5wg/5rxxm5ba49j1n74/ConsolaG+instalador.rar")
+    open("https://download1322.mediafire.com/5eigi0ea345g/j4vr7hndk3446mn/ConsolaG.rar")
 })
